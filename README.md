@@ -1,4 +1,4 @@
-﻿# Tic__Tac__Toe_CLI
+﻿# Tic Tac Toe CLI
 
 
 
